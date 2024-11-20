@@ -66,7 +66,7 @@ Here’s a quick overview of the repositories to help you get started:
 | [Html-Client](https://github.com/RevealBI-JavaBuilder/Html-Client) | Basic HTML client for testing the server | HTML |
 | [Angular-Client](https://github.com/RevealBI-JavaBuilder/Angular-Client) | Angular-based client application | TypeScript |
 | [React-Client](https://github.com/RevealBI-JavaBuilder/React-Client) | React-based client application | TypeScript |
-| [Visualization-Images](https://github.com/RevealBI-JavaBuilder/Visualization-Images) | Visualization assets | N/A |
+| [Visualization-Images](https://github.com/RevealBI-JavaBuilder/Visualization-Images) | Visualization assets | png/svg |
 
 
 ---
