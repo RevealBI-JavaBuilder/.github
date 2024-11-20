@@ -10,7 +10,7 @@ This organization provides everything you need to get started with building and 
 
 The **Java Server** is the backend that powers the dashboard system. Follow these steps to get it up and running:
 
-1. **Download the ZIP file** from the [Java-Server](./Java-Server) repository.
+1. **Download the ZIP file** from the [Java-Server](https://github.com/RevealBI-JavaBuilder/Java-Server) repository.
 2. **Unzip the file** into your desired directory.
 3. Open a terminal, navigate to the unzipped directory, and run the following command:
    ```bash
@@ -30,12 +30,12 @@ The **Java Server** is the backend that powers the dashboard system. Follow thes
 Once the server is running, you can test it using one of the client applications available in the organization.
 
 #### **HTML Client**
-- Navigate to the [Html-Client](./Html-Client) repository.
+- Navigate to the [Html-Client](https://github.com/RevealBI-JavaBuilder/Html-Client) repository.
 - Download the source files or clone the repository.
 - Open `index.html` in any browser to interact with the server.
 
 #### **Angular Client**
-- Navigate to the [Angular-Client](./Angular-Client) repository.
+- Navigate to the [Angular-Client](https://github.com/RevealBI-JavaBuilder/Angular-Client) repository.
 - Clone the repository.
 - Install dependencies and start the development server:
    ```bash
@@ -45,7 +45,7 @@ Once the server is running, you can test it using one of the client applications
 - Open your browser and visit `http://localhost:4200`.
 
 #### **React Client**
-- Navigate to the [React-Client](./React-Client) repository.
+- Navigate to the [React-Client](https://github.com/RevealBI-JavaBuilder/React-Client) repository.
 - Clone the repository.
 - Install dependencies and start the application:
    ```bash
@@ -62,11 +62,12 @@ Here’s a quick overview of the repositories to help you get started:
 
 | Repository | Description | Language/Framework |
 |------------|-------------|---------------------|
-| [Java-Server](./Java-Server) | Backend server application | Java |
-| [Html-Client](./Html-Client) | Basic HTML client for testing the server | HTML |
-| [Angular-Client](./Angular-Client) | Angular-based client application | TypeScript |
-| [React-Client](./React-Client) | React-based client application | TypeScript |
-| [Visualization-Images](./Visualization-Images) | Visualization assets | N/A |
+| [Java-Server](https://github.com/RevealBI-JavaBuilder/Java-Server) | Backend server application | Java |
+| [Html-Client](https://github.com/RevealBI-JavaBuilder/Html-Client) | Basic HTML client for testing the server | HTML |
+| [Angular-Client](https://github.com/RevealBI-JavaBuilder/Angular-Client) | Angular-based client application | TypeScript |
+| [React-Client](https://github.com/RevealBI-JavaBuilder/React-Client) | React-based client application | TypeScript |
+| [Visualization-Images](https://github.com/RevealBI-JavaBuilder/Visualization-Images) | Visualization assets | N/A |
+
 
 ---
 
