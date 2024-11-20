@@ -1,6 +1,6 @@
 # Welcome to the Java Dashboard Builder Organization 👋
 
-This organization provides everything you need to get started with building and testing dashboards using our **Java Server** and multiple client applications. Follow these steps to quickly set up and explore the tools.
+This organization provides everything you need to get started with dynamically building dashboards using a visualization catalog created from your existing dashboad visualization. This readme guides you through the different repositories available to you.
 
 ---
 
@@ -8,7 +8,7 @@ This organization provides everything you need to get started with building and 
 
 ### Step 1: Run the Java Server
 
-The **Java Server** is the backend that powers the dashboard system. Follow these steps to get it up and running:
+The **Java Server** is the backend that powers the visualization catalog. Follow these steps to get it up and running:
 
 1. **Download the ZIP file** from the [Java-Server](https://github.com/RevealBI-JavaBuilder/Java-Server) repository.
 2. **Unzip the file** into your desired directory.
@@ -73,4 +73,4 @@ Here’s a quick overview of the repositories to help you get started:
 
 ## 💡 Need Help?
 
-If you encounter any issues or have questions, feel free to open an issue in the relevant repository or reach out to us. We're here to help!
+If you encounter any issues or have questions, feel free to use the DOM channel on the Reveal Discord Server. We're here to help!
